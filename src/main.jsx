@@ -16,7 +16,8 @@ createRoot(document.getElementById('root')).render(
     <Header />
     <Hero/>
     <About/>
-    <Skill/>
+    <div className="sm: hidden"> <Skill/></div>
+    
     <Project/>
     <Resume/>
     <Contact/>

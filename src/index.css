@@ -73,6 +73,7 @@
 
 .float-img {
   animation: floatY 2s ease-in-out infinite;
+ transform: translatex(-10px); 
 }
 
 .about {

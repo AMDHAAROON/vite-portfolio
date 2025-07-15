@@ -90,12 +90,12 @@ export default function Project() {
 
         {/* Mobile View */}
         <div className="md:hidden flex items-center justify-center gap-4 mt-8">
-          <button onClick={goLeft} className="text-white p-2 rounded-full bg-[#ffffff] hover:bg-white hover:text-black transition">
+          <button onClick={goLeft} className="text-[#B2C3F7] p-2 rounded-full bg-[#ffffff] hover:bg-[#B2C3F7] hover:text-white transition">
   <ArrowBackIosNewIcon fontSize="medium" />
 </button>
 
           {/* Sliding container */}
-            console.log("Project component loaded");
+            
 <div className="relative w-80 h-64 overflow-hidden">
   <div className="w-full h-full bg-white rounded-lg shadow-lg overflow-hidden">
     <img
@@ -112,7 +112,7 @@ export default function Project() {
 
 
 
-          <button onClick={goRight} className="text-white p-2 rounded-full bg-[#ffffff] hover:bg-white hover:text-black transition">
+          <button onClick={goRight} className="text-[#B2C3F7] p-2 rounded-full bg-[#ffffff] hover:bg-[#B2C3F7] hover:text-white transition">
   <ArrowForwardIosIcon fontSize="medium" />
 </button>
         </div>

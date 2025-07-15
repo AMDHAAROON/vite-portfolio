@@ -17,7 +17,7 @@ const skills = [
 
 export default function SkillSection() {
   return (
-    <Box id="skills" py={5} className="bg-[#e0e0e0] px-3">
+    <Box id="skills" py={5} className=" bg-[#e0e0e0] px-3 ">
       <div className="border-2 border-[#D7DDF0] bg-white px-10 pb-10 rounded-2xl shadow-2xl">
         <h3 className="font-cal text-5xl text-[#7596F7] pl-40 py-8">
           Tech stacks <span className="about"></span>

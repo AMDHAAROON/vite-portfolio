@@ -23,7 +23,7 @@ return<div className='pb-4 cursor-default bg-[#e0e0e0]  ' id="hero">
         <a href={config.social.insta} className=' mr-16 md:mr-10 text-black hover:text-white'><AiFillInstagram size={40}/></a>
      </div>
      </div>
-     <img  className=" md:w-1/2 mr-5 pt-8 float-img" src={heroimg}/>
+     <img  className=" md:w-1/2 mr-5 pt-8 float-img " src={heroimg}/>
    
     </section>
     <div class="flex justify-center bg-lightlaven rounded-b-2xl  py-4 mx-3 shadow-xl border-b-2 border-x-2  border-[#ffffff]">
