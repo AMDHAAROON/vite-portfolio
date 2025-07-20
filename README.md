@@ -39,18 +39,3 @@ A modern, responsive **portfolio website** built using **Vite + React + Tailwind
 - Clean UI with custom fonts and colors
 
 ---
-
-## 📁 Folder Structure
-
-vite-portfolio/
-├── public/
-│ └── assets/ # Images and static files
-├── src/
-│ ├── components/ # Reusable React components
-│ ├── main.jsx # Vite root renderer
-│ └── index.css # Tailwind & custom styles
-├── .gitignore
-├── index.html
-├── package.json
-├── README.md
-└── tailwind.config.js
