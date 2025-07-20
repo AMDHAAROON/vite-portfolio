@@ -75,6 +75,15 @@
   animation: floatY 2s ease-in-out infinite;
  transform: translatex(-10px); 
 }
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 0.8; } /* 0.8 is 80% visible */
+}
+
+.animate-fade-in {
+  animation: fade-in 1s ease-in-out;
+}
+
 
 .about {
   display: inline-block;
