@@ -67,7 +67,7 @@ export default function Project() {
   }, []);
 
   return (
-    <div className="pb-4 px-3 cursor-default bg-[#e0e0e0]" id="project">
+    <div className="pb-4 px-3 cursor-default bg-[#ECECEC]" id="project">
       <section className="bg-lightlaven border-x-2 border-b-2 border-[#ffffff] shadow-2xl rounded-2xl p-2 py-10">
         <h1
           ref={ref}

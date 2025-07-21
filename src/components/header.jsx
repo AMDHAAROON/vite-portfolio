@@ -6,7 +6,7 @@ import icon from '../assets/online-learning.png';
 export default function Header(){
    const [toggleMenu,settoggleMenu]= useState(false);
     return <>
-    <section className="px-3 pt-4 bg-[#e0e0e0] cursor-default ">    
+    <section className="px-3 pt-4 bg-[#ECECEC] cursor-default ">    
     <header className="flex justify-between px-10 py-5  bg-lightlaven rounded-t-2xl border-x-2  border-[#ffffff] ">
         <a href="#" className="font-cursive text-gray-600 text-4xl   border-r-2 border-white pr-4 flex"> Myself
         </a>

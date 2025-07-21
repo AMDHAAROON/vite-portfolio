@@ -23,8 +23,8 @@ export default function TypingHeading() {
   };
 
   return (
-    <div className="px-3 pb-4 dark cursor-default bg-[#e0e0e0]" id="about">
-      <section className="flex flex-col md:flex-row border-2 border-[#D7DDF0] shadow-1xl rounded-2xl p-12 md:p-20 bg-white">
+    <div className="px-3 pb-4 dark cursor-default bg-[#ECECEC]" id="about">
+      <section className="flex flex-col md:flex-row border-2 border-[#D7DDF0] shadow-xl rounded-2xl p-12 md:p-20 bg-white">
         <div className="md:w-1/2  md:mr-10  ">
           <img
             src={aboutimg}

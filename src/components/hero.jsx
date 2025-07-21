@@ -12,7 +12,7 @@ export default function Hero(){
       }
    }
 
-return<div className='pb-4 cursor-default bg-[#e0e0e0]  ' id="hero">
+return<div className='pb-4 cursor-default bg-[#ECECEC]  ' id="hero">
  <section className='flex  flex-col md:flex-row bg-lightlaven  mx-3  pt-16 pb-8  px-6   text-black border-x-2 border-[#ffff] '>
     <div className='md:w-1/2  text-4xl font-chalk  justify-center  md:pt-8 text-center md:ml-20 leading-normal md:leading-snug text-black flex flex-col' >
     <h1 >Hey !<br/>I'm Mohamed<span className='text-black font-marker hover:text-white cursor-pointer'> Haaroon,</span>

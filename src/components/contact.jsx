@@ -4,8 +4,8 @@ export default function Contact() {
     phone: "+91 9500669628",
   };
   return (
-    <div className=" px-6 pb-4 cursor-default bg-[#e0e0e0] " id="contact">
-      <section className="flex flex-col  bg-lightlaven rounded-2xl p-8 border-b-2 border-[#ffffff] shadow-xl">
+    <div className=" px-6 pb-4 cursor-default bg-[#ECECEC] " id="contact">
+      <section className="flex flex-col  bg-lightlaven rounded-2xl p-8 border-b-2 border-[#ffffff] shadow-2xl">
         <div className=" text-center">
           <div className=" items-center    ">
             <h1 className=" text-4xl md:text-5xl text-white font-cal pb-1  ">

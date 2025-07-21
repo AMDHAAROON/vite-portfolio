@@ -3,7 +3,7 @@ export default function Resume(){
     const config={
         link:'https://drive.google.com/file/d/1T_r4suPMEmv0gnEo54Q3FxLYTxk0PEwD/view?usp=sharing'
     }
-    return<div className=' px-3 pb-4 cursor-default bg-[#e0e0e0] shadow-2xl'id='resume'>
+    return<div className=' px-3 pb-4 cursor-default bg-[#ECECEC] shadow-2xl'id='resume'>
     <section className='flex flex-col md:flex-row  bg-white border-x-2 border-b-2 border-lightlaven rounded-2xl p-8'  >
         <div className='md:w-1/2 md:pl-28 md:mr-5 justify-end  flex '>
             <img src={resume} className='md:h-auto w-[300px] mx-auto shadow-2xl md:my-10 lg:my-0  border-4 rounded-2xl border-[#7596F7]'/>
