@@ -1,6 +1,6 @@
 export default function Contact() {
   const config = {
-    email: "mdhaaroo2020@gmail.com",
+    email: "mdhaaroon2020@gmail.com",
     phone: "+91 9500669628",
   };
   return (
